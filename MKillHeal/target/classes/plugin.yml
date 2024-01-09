@@ -1,0 +1,6 @@
+name: MKillHeal
+version: '1.0-SNAPSHOT'
+main: me.matt.mkillheal.MKillHeal
+api-version: '1.20'
+authors: [Mattgyve1990]
+description: A plugin that regenerates your hp after kills
